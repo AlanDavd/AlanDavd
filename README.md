@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Computer systems engineering student with current focus on backend and web frontend development.
-I have experience in frontend with technologies such as React, Vue, and NodeJs, Django in backend development but willing to learn something new.
+Computer systems engineering student with current focus on backend web development.
+I have experience with tools such as React, NodeJs, Django, and Go but I'm willing to learn something new.
 I’m bad at UI and UX design, btw.
 
 #### 📫 How to reach me:
