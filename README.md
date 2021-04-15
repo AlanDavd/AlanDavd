@@ -2,7 +2,6 @@
 
 Computer systems engineering student with current focus on backend web development.
 I have experience with tools such as React, NodeJs, Django, and Go but I'm willing to learn something new.
-I’m bad at UI and UX design, btw.
 
 #### 📫 How to reach me:
 - email: alandavidrl11@gmail.com
